@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Uninteresting facts about the author
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is John-Taylor Smith, but I go by JT, mainly because I prefer not to be called John. Brief background:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Purdue Electrical and Computer Engineering
+- Worked with robotics and computer vision
+- Moved to a dev and backend software role
+- Wanted more customer facetime so moved to consulting/support
+- Wanted more _happy_ customer facetime so moved to Solutions Engineering
+- This allows me to be proactive with software and less reactive. Which I hope to highlight on this site.
 
 What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
