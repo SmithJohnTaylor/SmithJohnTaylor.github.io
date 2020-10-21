@@ -12,6 +12,7 @@ My name is John-Taylor Smith, but I go by JT, mainly because I prefer not to be 
 - Wanted more customer facetime so moved to consulting/support
 - Wanted more _happy_ customer facetime so moved to Solutions Engineering
 - This allows me to be proactive with software and less reactive. Which I hope to highlight on this site.
+- Writing this blog to learn.
 
 What else do you need?
 
