@@ -2,6 +2,7 @@
 layout: post
 title: Ain't nothing to it, but to do it
 subtitle: This blog won't write itself
+tags: [personal]
 ---
 **## Why did I create this blog?**
 
