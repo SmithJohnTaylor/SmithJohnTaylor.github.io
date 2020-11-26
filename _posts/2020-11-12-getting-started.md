@@ -14,11 +14,11 @@ The idea came as I was diving into “tech twitter” for the first time. “Bui
 
 ### You have a domain, but where are you going to host your site?
 
-One of the first justifications I had for creating my own blog was to learn some AWS tools in a practical way. The concept of a [static site](~https://aws.amazon.com/getting-started/hands-on/host-static-website/~) was new to me, but many had already paved the way, and built tooling, to make hosting a static site on AWS easy. Registering a domain, setting up Route53 (everyone’s favorite database), and storing the site artifacts in S3 are some of the core features this method uses. It’s very easy to do and I highly recommend checking it out if you need an easy way to host a site. I ran my site like this for some time and with the traffic I was getting (see: none) it was costing me $0.20/month. Being as that was just too expensive for my tastes, I continued looking for an alternative.
+One of the first justifications I had for creating my own blog was to learn some AWS tools in a practical way. The concept of a [static site](https://aws.amazon.com/getting-started/hands-on/host-static-website/) was new to me, but many had already paved the way, and built tooling, to make hosting a static site on AWS easy. Registering a domain, setting up Route53 (everyone’s favorite database), and storing the site artifacts in S3 are some of the core features this method uses. It’s very easy to do and I highly recommend checking it out if you need an easy way to host a site. I ran my site like this for some time and with the traffic I was getting (see: none) it was costing me $0.20/month. Being as that was just too expensive for my tastes, I continued looking for an alternative.
 
-I tried out [Netlify](~https://www.netlify.com/~) but quickly determined it was overkill for my needs.
+I tried out [Netlify](https://www.netlify.com/) but quickly determined it was overkill for my needs.
 
-Finally, I discovered [Github Pages](~https://pages.github.com/~), which was even easier and free! My site is still running on Github Pages and you can find the source [here](~https://github.com/SmithJohnTaylor/SmithJohnTaylor.github.io~).
+Finally, I discovered [Github Pages](https://pages.github.com/), which was even easier and free! My site is still running on Github Pages and you can find the source [here](https://github.com/SmithJohnTaylor/SmithJohnTaylor.github.io).
 
 ### Domain :white_check_mark:, now what to choose for a theme…
 
