@@ -1,4 +1,4 @@
-baseURL = 'https://smithjohntaylor.github.io/'
+baseURL = 'https://jtsmith.me/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishDir = "docs"
