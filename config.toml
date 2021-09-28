@@ -1,4 +1,5 @@
 baseURL = 'https://smithjohntaylor.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+publishDir = "docs"
 theme = "ananke"
