@@ -5,4 +5,4 @@ draft: false
 ---
 
 # hi
-testing out editifgsdghshshhng in the browser
+does manual building work
