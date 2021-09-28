@@ -1,5 +1,5 @@
 baseURL = 'https://jtsmith.me'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "JT Smith's Blog"
 publishDir = "docs"
 theme = "ananke"
