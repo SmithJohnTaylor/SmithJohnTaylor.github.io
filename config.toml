@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = "JT Smith's Blog"
 publishDir = "docs"
 theme = "ananke"
+
+[params]
+twitterName = "SmithJohnTaylor"
+githubName = "SmithJohnTaylor"
