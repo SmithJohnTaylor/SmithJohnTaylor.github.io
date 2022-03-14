@@ -2,7 +2,7 @@ baseURL = 'https://jtsmith.me'
 languageCode = 'en-us'
 title = "JT Smith's Blog"
 publishDir = "docs"
-theme: "PaperMod"
+theme = "PaperMod"
 
 [params]
 twitterName = "SmithJohnTaylor"
