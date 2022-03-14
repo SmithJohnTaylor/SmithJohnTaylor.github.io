@@ -76,11 +76,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/SmithJohnTaylor"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/john-taylor-smith"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/SmithJohnTaylor"
 
 #   analytics:
 #     google:
@@ -96,7 +96,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/SmithJohnTaylor/SmithJohnTaylor.github.io/tree/main/content/posts"
+    URL: "https://github.com/SmithJohnTaylor/SmithJohnTaylor.github.io/content/posts"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
