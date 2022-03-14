@@ -1,9 +1,18 @@
-baseURL = 'https://jtsmith.me'
-languageCode = 'en-us'
-title = "JT Smith's Blog"
-publishDir = "docs"
-theme = "PaperMod"
+baseURL: 'https://jtsmith.me'
+languageCode: 'en-us'
+title: "JT Smith's Blog"
+publishDir: "docs"
+theme: "PaperMod"
 
-[params]
-twitterName = "SmithJohnTaylor"
-githubName = "SmithJohnTaylor"
+# home-info mode
+homeInfoParams:
+Title: "Hi there \U0001F44B"
+Content: Welcome to my blog
+
+socialIcons:
+- name: twitter
+    url: "https://twitter.com/"
+- name: linkedin
+    url: "https://stackoverflow.com"
+- name: github
+    url: "https://github.com/"
