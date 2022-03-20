@@ -40,18 +40,18 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "resources/_gen/images/me.jpg"
-    #favicon16x16: "<link / abs url>"
-    favicon32x32: "resources/_gen/images/me.jpg"
-    apple_touch_icon: "resources/_gen/images/me.jpg"
-    #safari_pinned_tab: "<link / abs url>"
+  # assets:
+  #   # disableHLJS: true # to disable highlight.js
+  #   # disableFingerprinting: true
+  #   favicon: "resources/_gen/images/me.jpg"
+  #   #favicon16x16: "<link / abs url>"
+  #   favicon32x32: "resources/_gen/images/me.jpg"
+  #   apple_touch_icon: "resources/_gen/images/me.jpg"
+  #   #safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /resources/_gen/images/me.jpg
     iconHeight: 35
 
   # profile-mode
