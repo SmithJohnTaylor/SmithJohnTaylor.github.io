@@ -51,7 +51,7 @@ params:
 
   label:
     text: "Home"
-    icon: /resources/_gen/images/me.jpg
+    icon: resources/_gen/images/me.jpg
     iconHeight: 35
 
   # profile-mode
