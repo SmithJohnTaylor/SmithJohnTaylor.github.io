@@ -45,7 +45,7 @@ params:
     # disableFingerprinting: true
     favicon: "resources/_gen/images/me.jpg"
     #favicon16x16: "<link / abs url>"
-    #favicon32x32: "<link / abs url>"
+    favicon32x32: "resources/_gen/images/me.jpg"
     apple_touch_icon: "resources/_gen/images/me.jpg"
     #safari_pinned_tab: "<link / abs url>"
 
