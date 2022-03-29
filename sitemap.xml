@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jtsmith.me/categories/</loc>
+    <loc>https://jtsmith.me/tags/first/</loc>
+    <lastmod>2022-03-19T20:37:03+00:00</lastmod>
   </url><url>
     <loc>https://jtsmith.me/</loc>
+    <lastmod>2022-03-19T20:37:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jtsmith.me/posts/my-first-post/</loc>
+    <lastmod>2022-03-19T20:37:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jtsmith.me/posts/</loc>
+    <lastmod>2022-03-19T20:37:03+00:00</lastmod>
   </url><url>
     <loc>https://jtsmith.me/tags/</loc>
+    <lastmod>2022-03-19T20:37:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jtsmith.me/categories/</loc>
   </url>
 </urlset>
